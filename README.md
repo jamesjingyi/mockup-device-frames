@@ -4,12 +4,16 @@ Apple is great and publishes device frames so you can use them for mockups. Unfo
 
 I’ve collected some of these for me to use, and will try and keep them up to date.
 
+## Latest update - 15th Sept
+- Added iPhone 15 Pro Max (All created by me!)
+
 Provided is:
 
 * The Sketch file with all the frames, including details of coordinates and resolutions
 * PNG exports for your use
 
 Credits for the images are as follows:
+* iPhone 15 Pro Max - Me!
 * iPhone 14 Pro Max - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 * iPad Pro 12.9 and 11 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 * Google Pixel 8 Pro - Me! (Used a leaked image from The Verge)
@@ -20,7 +24,6 @@ Credits for the images are as follows:
 * Dell Ultrasharp 5K - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 
 My to-do list:
-* The new iPhone when it releases
 * A Google Sheet with dimensions and aspect ratios
 * A new Windows Desktop
 * Maybe making all the devices myself?
