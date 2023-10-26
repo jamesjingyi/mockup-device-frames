@@ -5,7 +5,7 @@ Apple is great and publishes device frames so you can use them for mockups. Unfo
 I’ve collected some of these for me to use, and will try and keep them up to date.
 
 ## Latest update - 28th Oct
-- Added the normal Pixel 8 and fixed the Pixel 8 Pro based on actual device renders from the Google site (note the size of the screenshots for this is slightly different now)
+- Added the normal Pixel 8 and fixed the Pixel 8 Pro based on actual device renders from the Google site (note the size of the screenshots for this are slightly different now)
 
 Provided is:
 
