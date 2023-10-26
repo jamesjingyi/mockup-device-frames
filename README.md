@@ -4,8 +4,8 @@ Apple is great and publishes device frames so you can use them for mockups. Unfo
 
 I’ve collected some of these for me to use, and will try and keep them up to date.
 
-## Latest update - 15th Sept
-- Added iPhone 15 Pro Max (All created by me!)
+## Latest update - 28th Oct
+- Added the normal Pixel 8 and fixed the Pixel 8 Pro based on actual device renders from the Google site (note the size of the screenshots for this is slightly different now)
 
 Provided is:
 
@@ -16,7 +16,7 @@ Credits for the images are as follows:
 * iPhone 15 Pro Max - Me!
 * iPhone 14 Pro Max - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 * iPad Pro 12.9 and 11 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
-* Google Pixel 8 Pro - Me! (Used a leaked image from The Verge)
+* Google Pixel 8 Pro - Me!
 * Google Pixel Tablet - Me!
 * MacBook Pro 14 - Apple Developer Resources (https://developer.apple.com/design/resources/)
 * iMac 24 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
