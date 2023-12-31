@@ -4,8 +4,9 @@ Apple is great and publishes device frames so you can use them for mockups. Unfo
 
 I’ve collected some of these for me to use, and will try and keep them up to date.
 
-## Latest update - 28th Oct
-- Added the normal Pixel 8 and fixed the Pixel 8 Pro based on actual device renders from the Google site (note the size of the screenshots for this are slightly different now)
+## Latest update - 31st Dec
+- Added the MacBook Pro 16 and the MacBook Air 13
+- Updated the Sketch file to say 2024 in preparation!
 
 Provided is:
 
@@ -19,11 +20,14 @@ Credits for the images are as follows:
 * Google Pixel 8 Pro - Me!
 * Google Pixel Tablet - Me!
 * MacBook Pro 14 - Apple Developer Resources (https://developer.apple.com/design/resources/)
+* MacBook Pro 16 - Apple Developer Resources (https://developer.apple.com/design/resources/)
+* MacBook Air 13 - Apple Developer Resources (https://developer.apple.com/design/resources/)
 * iMac 24 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 * Dell XPS 13 Plus - Image taken from Dell’s website, and skewed and masked by me (https://www.dell.com/en-uk/shop/laptops/xps-13-plus-laptop/spd/xps-13-9320-laptop)
 * Dell Ultrasharp 5K - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 
 My to-do list:
+* Adding the iPad mini
 * A Google Sheet with dimensions and aspect ratios
 * A new Windows Desktop
 * Maybe making all the devices myself?
