@@ -6,11 +6,11 @@ I’ve collected some of these for me to use, and will try and keep them up to d
 
 ## Latest update - 5th Jan
 - Added the newly released XPS 13 OLED, XPS 14 and XPS 16 (using AI upscaled marketing materials from Dell)
+- Added iPad mini (from Apple's stuff) and iPad Air (from Meta - some are 2020 colours as these are the ones here)
 
 ## Previous update - 31st Dec
 (kept as it hasn't been long)
-- Added the MacBook Pro 16 and the MacBook Air 13
-- Updated the Sketch file to say 2024 in preparation!
+- Added MacBook Pro 16 and the MacBook Air 13
 
 Provided is:
 
@@ -21,6 +21,8 @@ Credits for the images are as follows:
 * iPhone 15 Pro Max - Me!
 * iPhone 14 Pro Max - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 * iPad Pro 12.9 and 11 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
+* iPad Air 10.9 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
+* iPad mini - Apple Developer Resources (https://developer.apple.com/design/resources/)
 * Google Pixel 8 Pro - Me!
 * Google Pixel Tablet - Me!
 * MacBook Pro 14 - Apple Developer Resources (https://developer.apple.com/design/resources/)
