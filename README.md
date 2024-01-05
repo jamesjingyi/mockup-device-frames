@@ -4,7 +4,11 @@ Apple is great and publishes device frames so you can use them for mockups. Unfo
 
 I’ve collected some of these for me to use, and will try and keep them up to date.
 
-## Latest update - 31st Dec
+## Latest update - 5th Jan
+- Added the newly released XPS 13 OLED, XPS 14 and XPS 16 (using AI upscaled marketing materials from Dell)
+
+## Previous update - 31st Dec
+(kept as it hasn't been long)
 - Added the MacBook Pro 16 and the MacBook Air 13
 - Updated the Sketch file to say 2024 in preparation!
 
@@ -24,6 +28,7 @@ Credits for the images are as follows:
 * MacBook Air 13 - Apple Developer Resources (https://developer.apple.com/design/resources/)
 * iMac 24 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 * Dell XPS 13 Plus - Image taken from Dell’s website, and skewed and masked by me (https://www.dell.com/en-uk/shop/laptops/xps-13-plus-laptop/spd/xps-13-9320-laptop)
+* Dell XPS 13 OLED, 14 and 16 — Images taken from the [press release](https://www.dell.com/en-us/blog/dells-new-xps-lineup-futuristic-design-with-built-in-ai/) and sized and masked by me
 * Dell Ultrasharp 5K - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 
 My to-do list:
