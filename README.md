@@ -4,13 +4,8 @@ Apple is great and publishes device frames so you can use them for mockups. Unfo
 
 I’ve collected some of these for me to use, and will try and keep them up to date.
 
-## Latest update - 5th Jan
-- Added the newly released XPS 13 OLED, XPS 14 and XPS 16 (using AI upscaled marketing materials from Dell)
-- Added iPad mini (from Apple's stuff) and iPad Air (from Meta - some are 2020 colours as these are the ones here)
-
-## Previous update - 31st Dec
-(kept as it hasn't been long)
-- Added MacBook Pro 16 and the MacBook Air 13
+## Latest update - 5th Jun
+- Added the new M4 iPad Pros, and M2 iPad Airs
 
 Provided is:
 
@@ -20,8 +15,8 @@ Provided is:
 Credits for the images are as follows:
 * iPhone 15 Pro Max - Me!
 * iPhone 14 Pro Max - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
-* iPad Pro 12.9 and 11 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
-* iPad Air 10.9 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
+* iPad Pro M4 13 and 11 — Apple Developer Resources (https://developer.apple.com/design/resources/)
+* iPad Air M2 13 and 11 — Apple Developer Resources (https://developer.apple.com/design/resources/)
 * iPad mini - Apple Developer Resources (https://developer.apple.com/design/resources/)
 * Google Pixel 8 Pro - Me!
 * Google Pixel Tablet - Me!
@@ -33,8 +28,11 @@ Credits for the images are as follows:
 * Dell XPS 13 OLED, 14 and 16 — Images taken from the [press release](https://www.dell.com/en-us/blog/dells-new-xps-lineup-futuristic-design-with-built-in-ai/) and sized and masked by me
 * Dell Ultrasharp 5K - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 
+(Old iPad files)
+* iPad Pro 12.9 and 11 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
+* iPad Air 10.9 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
+
 My to-do list:
-* Adding the iPad mini
 * A Google Sheet with dimensions and aspect ratios
 * A new Windows Desktop
 * Maybe making all the devices myself?
