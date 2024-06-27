@@ -5,7 +5,9 @@ Apple is great and publishes device frames so you can use them for mockups. Unfo
 I’ve collected some of these for me to use, and will try and keep them up to date.
 
 ## Latest update - 5th Jun
-- Added the new M4 iPad Pros, and M2 iPad Airs
+- Edited the iMac 24 so the images are more nicely proportioned (with new coordinates)
+- Added the Pro Display XDR and Studio Display
+- Edited the Dell UltraSharp 5K so that the screenshot dimensions line up with the Studio Display
 
 Provided is:
 
@@ -31,6 +33,8 @@ Credits for the images are as follows:
 (Old iPad files)
 * iPad Pro 12.9 and 11 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 * iPad Air 10.9 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
+* Pro Display XDR - I found this file and can't find the original, but I made quite a few edits, but still it's not just my work!
+* Studio Display - I edited the Pro Display XDR file, so half me, half someone else
 
 My to-do list:
 * A Google Sheet with dimensions and aspect ratios
