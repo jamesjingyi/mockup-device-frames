@@ -4,14 +4,15 @@ Apple is great and publishes device frames so you can use them for mockups. Unfo
 
 I’ve collected some of these for me to use, and will try and keep them up to date.
 
-## Latest update - 5th Jun
-- Edited the iMac 24 so the images are more nicely proportioned (with new coordinates)
-- Added the Pro Display XDR and Studio Display
-- Edited the Dell UltraSharp 5K so that the screenshot dimensions line up with the Studio Display
+## Latest update - 4th Jul
+- Added the Huawei MateView (4.5K)
+- Added the new Surface Laptop 13 and 15
+- Edited some coordinates of the Windows laptops so that all screenshots start at 400, 200
+- In the Contents page added a size guide for real-world sizing, so you can easily mock up multiple devices next to each other
 
 Provided is:
 
-* The Sketch file with all the frames, including details of coordinates and resolutions
+* The Sketch file with all the frames, including details of coordinates for screenshots, resolutions, and sizing guides
 * PNG exports for your use
 
 Credits for the images are as follows:
@@ -28,7 +29,9 @@ Credits for the images are as follows:
 * iMac 24 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 * Dell XPS 13 Plus - Image taken from Dell’s website, and skewed and masked by me (https://www.dell.com/en-uk/shop/laptops/xps-13-plus-laptop/spd/xps-13-9320-laptop)
 * Dell XPS 13 OLED, 14 and 16 — Images taken from the [press release](https://www.dell.com/en-us/blog/dells-new-xps-lineup-futuristic-design-with-built-in-ai/) and sized and masked by me
+* Surface Laptop 13 and 15 - Me!
 * Dell Ultrasharp 5K - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
+* Huawei MateView - Me!
 
 (Old iPad files)
 * iPad Pro 12.9 and 11 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
