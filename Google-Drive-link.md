@@ -1,0 +1,1 @@
+## Permalink to Google Drive: https://jjy.me/resources/mdf-gd

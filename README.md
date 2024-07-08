@@ -4,7 +4,11 @@ Apple is great and publishes device frames so you can use them for mockups. Unfo
 
 I’ve collected some of these for me to use, and will try and keep them up to date.
 
-## Latest update - 4th Jul
+## Latest update — 8th Jul
+- I have moved everything from GitHub LFS to Google Drive, just as was running into storage issues - I now have all Sketch files here: https://jjy.me/resources/mdf-gd
+
+## Previous update - 4th Jul 
+(Kept as has only changes to storage)
 - Added the Huawei MateView (4.5K)
 - Added the new Surface Laptop 13 and 15
 - Edited some coordinates of the Windows laptops so that all screenshots start at 400, 200
