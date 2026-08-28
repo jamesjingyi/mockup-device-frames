@@ -1,1 +1,1 @@
-## Permalink to iCloud Drive: https://jjy.me/resources/mdf-gd
+## Permalink to iCloud Drive: https://www.icloud.com/iclouddrive/0eaIjz9TL2qa8Bh7mzFJWSrDw#mockup-device-frames

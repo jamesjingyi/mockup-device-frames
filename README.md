@@ -4,16 +4,14 @@ Apple is great and publishes device frames so you can use them for mockups. Unfo
 
 I’ve collected some of these for me to use, and will try and keep them up to date.
 
-Sketch file here, and Figma file for 2025 models: https://jjy.me/resources/mdf-gd
+Sketch file here, and Figma file for 2026 models: https://jjy.me/resources/mdf-gd
 
 Also on [Gumroad](https://jamesjingyi.gumroad.com/l/2025-iphone-svgs) (if that’s easier!)
 
-## Latest update — 7 Jan 2026
-- Tidied up the file a lot (more consistent padding, better ordering)
-- Added Samsung Galaxy Tab S11 Ultra
-- Added ThinkPad P14s Gen 5
-- Updated link (now iCloud Drive)
-- Added a Viewport file to the Drive too (this allows you to just plop them into your current wireframes!)
+## Latest update — 26 Aug 2026
+- Added new files for the Studio Display that segment it into the different stand options, including light and dark (as Apple’s Developer Resources has done). These are re-created as SVGs, but I have created .webp versions as well.
+- Added new colours for the MacBook Pro and Air, also added the MacBook Neo. All of these are using Apple’s Developer Resources.
+- I will get around to the new Pixel devices soon-ish!
 
 Provided is:
 
@@ -33,6 +31,7 @@ Credits for the images are as follows:
 * MacBook Pro 14 - Apple Developer Resources (https://developer.apple.com/design/resources/)
 * MacBook Pro 16 - Apple Developer Resources (https://developer.apple.com/design/resources/)
 * MacBook Air 13 - Apple Developer Resources (https://developer.apple.com/design/resources/)
+* MacBook Neo - Apple Developer Resources (https://developer.apple.com/design/resources/)
 * iMac 24 - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
 * Dell XPS 13 Plus - Image taken from Dell’s website, and skewed and masked by me (https://www.dell.com/en-uk/shop/laptops/xps-13-plus-laptop/spd/xps-13-9320-laptop)
 * Dell XPS 13 OLED, 14 and 16 — Images taken from the [press release](https://www.dell.com/en-us/blog/dells-new-xps-lineup-futuristic-design-with-built-in-ai/) and sized and masked by me
