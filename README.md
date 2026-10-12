@@ -4,13 +4,17 @@ Apple is great and publishes device frames so you can use them for mockups. Unfo
 
 I’ve collected some of these for me to use, and will try and keep them up to date.
 
-Sketch file here, and Figma file for 2026 models: https://jjy.me/resources/mdf-gd
+Sketch file [here](https://www.icloud.com/iclouddrive/0eaIjz9TL2qa8Bh7mzFJWSrDw).
+
+Figma Community files:
+[iPhone 18 Pro / Max / Duo](https://www.figma.com/community/file/1686422548175302738/iphone-18-pro-max-duo-components-vectors)
+[iPhone 17 Pro / Max / Air](https://www.figma.com/community/file/1547773971650027194/iphone-17-pro-max-air-components-vectors)
+[iPad Pro 11 & 13 (M4/M5)](https://www.figma.com/community/file/1630609190756224107/ipad-pro-frames-vector-svg)
 
 Also on [Gumroad](https://jamesjingyi.gumroad.com/l/2025-iphone-svgs) (if that’s easier!)
 
-## Latest update — 26 Aug 2026
-- Added new files for the Studio Display that segment it into the different stand options, including light and dark (as Apple’s Developer Resources has done). These are re-created as SVGs, but I have created .webp versions as well.
-- Added new colours for the MacBook Pro and Air, also added the MacBook Neo. All of these are using Apple’s Developer Resources.
+## Latest update — 28 Sep 2026
+- Added new files for the iPhone 18 Pro, Pro Max, and Duo.
 - I will get around to the new Pixel devices soon-ish!
 
 Provided is:
