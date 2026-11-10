@@ -14,7 +14,7 @@ Figma Community files:
 Also on [Gumroad](https://jamesjingyi.gumroad.com/l/2025-iphone-svgs) (if that’s easier!)
 
 ## Latest update — 28 Sep 2026
-- Added new files for the iPhone 18 Pro, Pro Max, and Duo.
+- Added new iPad mini 8.5 and MacBook Pro with PROLED frames
 - I will get around to the new Pixel devices soon-ish!
 
 Provided is:
@@ -23,7 +23,10 @@ Provided is:
 * PNG exports for your use
 
 Credits for the images are as follows:
-* iPhone 16 Pro Max, Pro, Plus and normal — Apple Developer Resources (https://developer.apple.com/design/resources/)
+* MacBook Pro 14/16 with PROLED — Apple Developer Resources (https://developer.apple.com/design/resources/) 
+* iPad mini 8.5 - Me!
+* iPhone 17 Pro, Pro Max, Air, 18 Pro, Pro Max, Duo - Me!
+* iPhone 16 Pro Max, Pro, Plus and regular — Apple Developer Resources (https://developer.apple.com/design/resources/)
 * Pixel 9 Pro + XL - Me!
 * iPhone 15 Pro Max - Me!
 * iPhone 14 Pro Max - Meta Device Frames (https://design.facebook.com/toolsandresources/devices/)
